@@ -19,16 +19,24 @@ Demo
 > ## setup
 > 
 > załącz port szeregowy Serial
+> 
 > poczekaj na wiadomość od użytkownika w formacie `T(czas w sekundach, system unix)`
+> 
 > wyświetl komunikat o możliwości podaniu czasu budzika
+> 
 > Zbierz informacje w formacie 'Y-m-d H:i:s'
+> 
 > Oblicz różnice
+> 
 > ustaw piny na przycisk, buzzer
+> 
 > zainicjalizuj wyświetlacz
 > 
 
 > ## loop
+> 
 > odliczanie różnicy póki jest większa od 0
+> 
 > odpalenie sygnału
 > 
 
